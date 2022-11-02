@@ -1,4 +1,4 @@
-# Atividade Instalação Linux
+# Instalação Linux
 Esta documentação irá descrever e detalhar o processo de instalação do Oracle Linux, na versão 8.6. Esta versão foi utilizada, pois apesar de que a 9.0 ser a mais recente, a 8.6 é a mais estável no momento.
 
 O sistema operacional foi instalado através do software de virtualização VirtualBox, versão 6.1.36. 
